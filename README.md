@@ -15,9 +15,6 @@ Fikafy is a single page music streaming app that is meant to mirror the style an
 <img src="https://github.com/karleee/fikafy/blob/master/README_images/fikafy_main2.png" alt="Signup page" width="900px" border="1">
 </kbd>
 
-## How It Works
-To see the most up to date version, please visit [the homepage](https://karleee-spotify.herokuapp.com/#/welcome).
-
 ## Technologies Used
 * Object Storage – Amazon AWS
 * Querying – Ajax, jQuery
